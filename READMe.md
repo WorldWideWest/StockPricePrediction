@@ -3,10 +3,11 @@
 ## Table of Contetnts
 * [General-Info](#general-info)
 * [Technologies](#technologies)
+* [The-Projcet](#the-project)
 
 ## General Info
 
-The project will showcase the prediction of Microsoft Stock Price. For this project we will implement RNN (Recurent-Neural-Network). This project will predict prices before COVID-19 crisis, because we will predict the trend of the stock price. And we know that the model can't adjust to spikes. 
+The project will showcase the prediction of Microsoft Stock Price. For this project we will implement RNN (Recurent-Neural-Network). This project will predict prices in COVID-19 crisis.
 
 ## Technologies
 * Python 3.7.7 (https://www.python.org/)
