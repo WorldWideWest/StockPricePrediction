@@ -69,5 +69,7 @@ Now we need to fit our model and setup EarlyStopping and you will find that in t
 # References
 
 EarlyStopping(https://keras.io/api/callbacks/early_stopping/)
+
 LSTM(https://keras.io/api/layers/recurrent_layers/lstm/)
+
 MinMaxScaler(https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html)
